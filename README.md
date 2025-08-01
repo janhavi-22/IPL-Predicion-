@@ -25,7 +25,7 @@ It’s built using **Python, Pandas, Scikit-learn, and Matplotlib**, with a clea
 
 ---
 
-## 📌 Highlights
+##  Highlights
 
 | Feature                          | Details |
 |----------------------------------|---------|
