@@ -12,7 +12,7 @@
 
 ---
 
-## 🤔 What's This Project?
+##  What's This Project?
 
 This project uses **machine learning models** to predict the winner of Indian Premier League (IPL) matches based on features like:
 - Toss results
