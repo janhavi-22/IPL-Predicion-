@@ -1,7 +1,7 @@
-<h1 align="center">🏏 IPL Match Winner Predictor</h1>
+<h1 align="center"> IPL Match Winner Predictor</h1>
 
 <p align="center">
-  A machine learning-powered prediction system to forecast the winner of IPL matches based on historical data, player stats, and match conditions. 🎯📊
+  A machine learning-powered prediction system to forecast the winner of IPL matches based on historical data, player stats, and match conditions. 
 </p>
 
 <p align="center">
@@ -29,15 +29,15 @@ It’s built using **Python, Pandas, Scikit-learn, and Matplotlib**, with a clea
 
 | Feature                          | Details |
 |----------------------------------|---------|
-| 📁 Cleaned IPL dataset (2008–2023) | Based on official match stats |
-| 🧠 ML Algorithms Used             | Logistic Regression, Decision Tree, Random Forest |
-| 🎯 Accuracy Achieved             | ~83% with Random Forest (tuned) |
-| 📊 Visual Insights               | Team wins, toss impact, venue advantages |
-| 🖥️ Simple CLI or Streamlit UI   | For quick predictions and interaction |
+|  Cleaned IPL dataset (2008–2023) | Based on official match stats |
+|  ML Algorithms Used             | Logistic Regression, Decision Tree, Random Forest |
+|  Accuracy Achieved             | ~83% with Random Forest (tuned) |
+|  Visual Insights               | Team wins, toss impact, venue advantages |
+|  Simple CLI or Streamlit UI   | For quick predictions and interaction |
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 1. **Preprocessing**: Cleaning match data, encoding teams, venues, and results.
 2. **Feature Engineering**: Creating new features like `home_advantage`, `win_toss_and_bat`, etc.
@@ -46,18 +46,18 @@ It’s built using **Python, Pandas, Scikit-learn, and Matplotlib**, with a clea
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-- 🐍 Python
-- 📦 Pandas, NumPy
-- 📊 Matplotlib, Seaborn
-- 🤖 Scikit-learn
-- 💻 Streamlit (for frontend, optional)
-- 📂 Jupyter Notebook
+-  Python
+-  Pandas, NumPy
+-  Matplotlib, Seaborn
+-  Scikit-learn
+-  Streamlit (for frontend, optional)
+-  Jupyter Notebook
 
 ---
 
-## 🖼️ Screenshots / Output
+## Screenshots / Output
 
 > *(Add these after you upload screenshots)*
 
@@ -67,7 +67,7 @@ It’s built using **Python, Pandas, Scikit-learn, and Matplotlib**, with a clea
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 IPL-Prediction/
