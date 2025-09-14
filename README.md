@@ -31,18 +31,14 @@ It’s built using Python, Pandas, Scikit-learn, and Matplotlib, with a clean an
 |  Visual Insights               | Team wins, toss impact, venue advantages |
 |  Simple CLI or Streamlit UI   | For quick predictions and interaction |
 
----
+ How It Works
 
-##  How It Works
+1. Preprocessing: Cleaning match data, encoding teams, venues, and results.
+2. Feature Engineering: Creating new features like `home_advantage`, `win_toss_and_bat`, etc.
+3. Model Training: Training multiple classifiers and tuning hyperparameters.
+4. Prediction: Taking user input (teams, venue, toss winner) and predicting the winning team.
 
-1. **Preprocessing**: Cleaning match data, encoding teams, venues, and results.
-2. **Feature Engineering**: Creating new features like `home_advantage`, `win_toss_and_bat`, etc.
-3. **Model Training**: Training multiple classifiers and tuning hyperparameters.
-4. **Prediction**: Taking user input (teams, venue, toss winner) and predicting the winning team.
-
----
-
-##  Tech Stack
+ Tech Stack
 
 -  Python
 -  Pandas, NumPy
