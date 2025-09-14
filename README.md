@@ -46,25 +46,22 @@ It’s built using Python, Pandas, Scikit-learn, and Matplotlib, with a clean an
 -  Scikit-learn
 -  Streamlit (for frontend, optional)
 -  Jupyter Notebook
+-  
+ Screenshots / Output
 
----
+(Add these after you upload screenshots)
 
-## Screenshots / Output
+ Model Accuracy Prediction Interface Data Insights 
 
-> *(Add these after you upload screenshots)*
+[Accuracy](./screenshots/accuracy.png) [UI](./screenshots/ui.png) [Insights](./screenshots/insights.png) 
 
-| Model Accuracy | Prediction Interface | Data Insights |
-|----------------|----------------------|---------------|
-| ![Accuracy](./screenshots/accuracy.png) | ![UI](./screenshots/ui.png) | ![Insights](./screenshots/insights.png) |
+ Project Structure
 
----
+bash
 
-##  Project Structure
-
-```bash
-IPL-Prediction/
+IPL-Prediction
 │
-├── data/
+├─Z data/
 │   └── ipl_matches.csv
 ├── notebooks/
 │   └── IPL_Prediction_Model.ipynb
