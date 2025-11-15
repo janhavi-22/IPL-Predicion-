@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />        
   <img src="https://img.shields.io/badge/Made%20With-Python-blue" />           
-  <img src="https://img.shields.io/github/license/janhavi-22/IPL-Prediction" /> ndeudeujduedkedkejedjed
+  <img src="https://img.shields.io/github/license/janhavi-22/IPL-Prediction" /> ndeudeujduedkedkejedjedje
 </p>         
   
 What's This Project? 
