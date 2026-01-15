@@ -64,7 +64,7 @@ IPL-Prediction
 ├─Z data/
 │   └── ipl_matches.csv
 ├── notebooks/
-│   └── IPL_Prediction_Model.ipynb                gdvbyhejsdefkep[]rf[rofhjbdnchjsdygedsydwtyvdvcvftqydhiopoerpgijjvfbvvhsyghehbdbdyugfeygebhfhhueufgufruifhujndfjvufhfryfgyuufvgyuwegfegfhbvbjfghuherhygvhbrevhnvh
+│   └── IPL_Prediction_Model.ipynb             
 ├── app/
 │   └── streamlit_app.py
 ├── screenshots/
