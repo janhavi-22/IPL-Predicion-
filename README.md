@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/license/janhavi-22/IPL-Prediction" />  
 </p>         
   
-What's This Project?  bhedbehygdyegdhkjoeafkepofieju824urufbhbshgtygfq2gte17ehiwudhnehbfchwggey36r7t439rjifjirfnjmt;gplkfoefwsjurhq2731gebdbfsehfsheyfheu4rhyf3hfrbfhfbhwfbgu4rh4ufhnrkjfuhuiwrh
+What's This Project?  bhedbehygdyegdhkjoeafkepofieju824urufbhbshgtygfq2gte17ehiwudhnehbfchwggey36r7t439rjifjirfnjmt;gplkfoefwsjurhq2731gebdbfsehfsheyfheu4rhyf3hfrbfhfbhwfbgu4rh4ufhnr
 
 This project uses machine learning models to predict the winner of Indian Premier League (IPL) matches based on features like:
 - Toss results
