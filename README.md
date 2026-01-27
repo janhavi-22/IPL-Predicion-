@@ -1,16 +1,4 @@
-<h1 align="center"> IPL Match Winner Predictor</h1>
 
-<p align="center">
-  A machine learning-powered prediction system to forecast the winner of IPL matches based on historical data, player stats, and match conditions. 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" /> 
-  <img src="https://img.shields.io/badge/Made%20With-Python-blue" />           
-  <img src="https://img.shields.io/github/license/janhavi-22/IPL-Prediction" />  
-</p>         
-  
-What's This Project?  bhedbehygdyegdhkjoeafkepofieju824urufbhbshgtygfq2gte17ehiwudhnehbfchwggey36r7t439rjifjirfnjmt;gplkfoefwsjurhq2731gebdbfsehfsheyfheu4rh
 
 This project uses machine learning models to predict the winner of Indian Premier League (IPL) matches based on features like:
 - Toss results
@@ -19,7 +7,7 @@ This project uses machine learning models to predict the winner of Indian Premie
 - Head-to-head stats
 - Match conditions
 
-It’s built using Python, Pandas, Scikit-learn, and Matplotlib, with a clean and simple interface for predictions.
+It’s built using Python, Pandas, Scikit-learn, and Matplotlib, with a clean and simple interface for predictions.           hsycgbfeygfesyhwfgbehbdekushfewiu7ey32yu3dgbwsugfeow4feihgt73ik7ryhrgrhfnmkureiyiu5
 
  Highlights
 
