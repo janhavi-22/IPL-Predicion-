@@ -4,7 +4,7 @@ This project uses machine learning models to predict the winner of Indian Premie
 - Toss results
 - Venue
 - Team performance
-- Head-to-head stats   fbcfrhdyegfburh34yu4t5i6otg9ujndxhfhbvsbhchscbkjbxdbchdbfhsegfygfrfnsbferhd2yuye7hrdnfvdjfbjnlfthjbyohkoy9jin,lhgkmklgoihktip96yi48eurhyfuedywguidhb
+- Head-to-head stats   fbcfrhdyegfburh34yu4t5i6otg9ujndxhfhbvsbhchscbkjbxdbchdbfhsegfygfrfnsbferhd2yuye7hrdnfvdjfbjnlfthjbyohkoy9jin,lhgkmklgoihktip96yi48eurhyf
 - Match conditions    
 
 It’s built using Python, Pandas, Scikit-learn, and Matplotlib, with a clean and simple interface for predictions.       
