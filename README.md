@@ -1,7 +1,7 @@
 This project uses machine learning models to predict the winner of Indian Premier League (IPL) matches based on features like:
 - Toss results
 - Venue
-- Team performance     dfjvherygrtfu64tr343eu8r3ry54hyfw0ro043piffjivnjcndxsdhcqay7ey73ri
+- Team performance     dfjvherygrtfu64tr343eu8r3ry54hyfw0ro043piffjivnjcndxsdh
 - Head-to-head stats  
 - Match conditions    
 
